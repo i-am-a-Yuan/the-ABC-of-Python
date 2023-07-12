@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 11 14:16:16 2023
 
-@author: 86183
+@author: i-am-a-Yuan
 """
 
 # 1.编写程序，从键盘输入两点的坐标(x1,y1)和(x2,y2)，计算并输出两点之间的距离。
